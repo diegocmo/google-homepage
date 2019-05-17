@@ -3,6 +3,23 @@ body {
     text-align: center;
 }
 
+#navbutton {
+    color: #fff;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    background:-webkit-linear-gradient(top,#4387fd,#4683ea);
+    padding: 5px 10px;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100%;
+}
+
+#content-wrap {
+    padding-bottom: 272px;
+}
+
 footer a {
     padding: 10px;
 }
